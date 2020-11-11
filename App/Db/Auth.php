@@ -2,8 +2,8 @@
 
 
 namespace Database;
-include('config/Models/Users.php');
-include('config/Db/Mysql.php');
+use Database\Mysql;
+use Models\Users;
 class Auth
 {
     public $users;

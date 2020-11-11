@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Database;
+namespace Models;
 
 
 class Users

@@ -1,0 +1,14 @@
+{
+    "name": "pimme/cms",
+    "description": "Custom written cms",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "license": "M.I.T",
+    "require": {
+        "monolog/monolog": "1.25.1"
+    }
+}
